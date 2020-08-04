@@ -1,6 +1,5 @@
 {
 	"items" : [
-		
 	{
 		"abr": "advancedcomponent",
 		"price": 333,
@@ -9342,7 +9341,7 @@
 		"price": 583,
 		"category": "Production",
 		"defname": "TableMending"
-	}
+	},
 	],
 	"total": 1613
 }
