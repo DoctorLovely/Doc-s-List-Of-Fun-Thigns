@@ -9324,6 +9324,24 @@
 		"category": "Meat",
 		"defname": "Meat_Kenshi_Hiver_Worker_Southern"
 	},
+	{
+		"abr": "sprat",
+		"price": 3,
+		"category": "Raw fish",
+		"defname": "VCEF_RawSprat"
+	},
+	{
+		"abr": "mendingkit",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "MendingKit"
+	},
+	{
+		"abr": "mendingworkbench",
+		"price": 583,
+		"category": "Production",
+		"defname": "TableMending"
+	}
 	],
-	"total": 1610
+	"total": 1613
 }
