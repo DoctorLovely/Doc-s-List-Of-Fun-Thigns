@@ -1,6 +1,234 @@
 {
 	"items" : [
 	{
+		"abr": "Bearman",
+		"price" 1667: ,
+		"category": "Pawn Types",
+		"defname": "BearMan"
+	},
+	{
+		"abr": "Southernhiveworkerdrone",
+		"price" 1667: ,
+		"category": "Pawn Types",
+		"defname": "Southernhiveworkerdrone"
+	},
+	{
+		"abr": "Southernhivesoldierdrone",
+		"price" 1667: ,
+		"category": "Pawn Types",
+		"defname": "Southernhivesoldierdrone"
+	},
+	{
+		"abr": "Southernhiveprince",
+		"price" 1667: ,
+		"category": "Pawn Types",
+		"defname": "Southernhiveprince"
+	},
+	{
+		"abr": "Shek",
+		"price" 1667: ,
+		"category": "Pawn Types",
+		"defname": "Shek"
+	},
+	{
+		"abr": "Raccoonman",
+		"price" 1667: ,
+		"category": "Pawn Types",
+		"defname": "RaccoonMan"
+	},
+	{
+		"abr": "Pigman",
+		"price" 1667: ,
+		"category": "Pawn Types",
+		"defname": "PigMan"
+	},
+	{
+		"abr": "WolfMan",
+		"price" 1667: ,
+		"category": "Pawn Types",
+		"defname": "WolfMan"
+	},
+	{
+		"abr": "HiveWorkerDrone",
+		"price" 1667: ,
+		"category": "Pawn Types",
+		"defname": "HiveWorkerDrone"
+	},
+	{
+		"abr": "HiveSoldierDrone",
+		"price" 1667: ,
+		"category": "Pawn Types",
+		"defname": "HiveSoldierDrone"
+	},
+	{
+		"abr": "HivePrince",
+		"price" 1667: ,
+		"category": "Pawn Types",
+		"defname": "HivePrince"
+	},
+	{
+		"abr": "GazelleMan",
+		"price" 1667: ,
+		"category": "Pawn Types",
+		"defname": "GazelleMan"
+	},
+	{
+		"abr": "LynxMan",
+		"price" 1667: ,
+		"category": "Pawn Types",
+		"defname": "LynxMan"
+	},
+	{
+		"abr": "FogManSoldier",
+		"price" 1667: ,
+		"category": "Pawn Types",
+		"defname": "FogManSoldier"
+	},
+	{
+		"abr": "CamelMan",
+		"price" 1667: ,
+		"category": "Pawn Types",
+		"defname": "CamelMan"
+	},
+	{
+		"abr": "FoxMan",
+		"price" 1667: ,
+		"category": "Pawn Types",
+		"defname": "FoxMan"
+	},
+	{
+		"abr": "ElkMan",
+		"price" 1667: ,
+		"category": "Pawn Types",
+		"defname": "ElkMan"
+	},
+	{
+		"abr": "ElephantMan",
+		"price" 1667: ,
+		"category": "Pawn Types",
+		"defname": "ElephantMan"
+	},
+	{
+		"abr": "FogMan",
+		"price" 1667: ,
+		"category": "Pawn Types",
+		"defname": "FogMan"
+	},
+	{
+		"abr": "FogManPrince",
+		"price" 1667: ,
+		"category": "Pawn Types",
+		"defname": "FogManPrince"
+	},
+	{
+		"abr": "T1Android",
+		"price" 2333: ,
+		"category": "Pawn Types",
+		"defname": "T1Android"
+	},
+	{
+		"abr": "Skaven",
+		"price" 2500: ,
+		"category": "Pawn Types",
+		"defname": "Skaven"
+	},
+	{
+		"abr": "Skeleton",
+		"price" 2500: ,
+		"category": "Pawn Types",
+		"defname": "Skeleton"
+	},
+	{
+		"abr": "Vermin",
+		"price" 2617: ,
+		"category": "Pawn Types",
+		"defname": "Vermin"
+	},
+	{
+		"abr": "Rabbie",
+		"price" 3333: ,
+		"category": "Pawn Types",
+		"defname": "Rabbie"
+	},
+	{
+		"abr": "Ferian",
+		"price" 3333: ,
+		"category": "Pawn Types",
+		"defname": "Ferian"
+	},
+	{
+		"abr": "Crystal",
+		"price" 3333: ,
+		"category": "Pawn Types",
+		"defname": "Crystal"
+	},
+	{
+		"abr": "T2Android",
+		"price" 4167: ,
+		"category": "Pawn Types",
+		"defname": "T2Android"
+	},
+	{
+		"abr": "MoulderSkaven",
+		"price" 4167: ,
+		"category": "Pawn Types",
+		"defname": "MoulderSkaven"
+	},
+	{
+		"abr": "HornedSkaven",
+		"price" 4167: ,
+		"category": "Pawn Types",
+		"defname": "HornedSkaven"
+	},
+	{
+		"abr": "DonkeyEquine",
+		"price" 5000: ,
+		"category": "Pawn Types",
+		"defname": "DonkeyEquine"
+	},
+	{
+		"abr": "EquiumHorn",
+		"price" 5000: ,
+		"category": "Pawn Types",
+		"defname": "EquiumHorn"
+	},
+	{
+		"abr": "Equium",
+		"price" 5000: ,
+		"category": "Pawn Types",
+		"defname": "Equium"
+	},
+	{
+		"abr": "Zebraequine",
+		"price" 5000: ,
+		"category": "Pawn Types",
+		"defname": "Zebraequine"
+	},
+	{
+		"abr": "T3Android",
+		"price" 8000: ,
+		"category": "Pawn Types",
+		"defname": "T3Android"
+	},
+	{
+		"abr": "T4Android",
+		"price" 10000: ,
+		"category": "Pawn Types",
+		"defname": "T4Android"
+	},
+	{
+		"abr": "T5Android",
+		"price" 13333: ,
+		"category": "Pawn Types",
+		"defname": "T5Android"
+	},
+	{
+		"abr": "M7MechanisedInfantry",
+		"price" 30000: ,
+		"category": "Pawn Types",
+		"defname": "M7MechanisedInfantry"
+	},
+	{
 		"abr": "advancedcomponent",
 		"price": 333,
 		"category": "Manufactured",
@@ -9341,7 +9569,55 @@
 		"price": 583,
 		"category": "Production",
 		"defname": "TableMending"
-	}
+	},
+	{
+		"abr": "augmentedbrain",
+		"price": 12708,
+		"category": "Bionic",
+		"defname": "AugmentedBrain"
+	},
+	{
+		"abr": "brain",
+		"price": 5000,
+		"category": "Natural",
+		"defname": "Brain"
+	},
+	{
+		"abr": "braininajar",
+		"price": 5483,
+		"category": "Misc",
+		"defname": "MiniBrainJar"
+	},
+	{
+		"abr": "brainprocessor",
+		"price": 7742,
+		"category": "Misc",
+		"defname": "BrainInAJar"
+	},
+	{
+		"abr": "dronebrain",
+		"price": 1133,
+		"category": "Bionic",
+		"defname": "DroneBrain"
+	},
+	{
+		"abr": "dual-brainprocessor",
+		"price": 17208,
+		"category": "Misc",
+		"defname": "DualBrain"
+	},
+	{
+		"abr": "quad-brainprocessor",
+		"price": 34167,
+		"category": "Misc",
+		"defname": "QuadBrain"
+	},
+	{
+		"abr": "statueofanimal(1x1)",
+		"price": 358,
+		"category": "Art",
+		"defname": "TMB_StatueOfAnimal1x"
+	},
 	],
-	"total": 1613
+	"total": 1621
 }
