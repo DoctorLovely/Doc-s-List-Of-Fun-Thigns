@@ -282,7 +282,7 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 1,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -292,12 +292,12 @@
 	},
 	{
 		"abr": "trait",
-		"price": 1,
+		"price": 3500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 1,
+		"price": 5500,
 		"karmatype": "Good"
 	},
 	{
@@ -331,45 +331,90 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "reviveall",
-		"price": 22664,
+		"abr": "supernova",
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "reviveme",
-		"price": 2833,
-		"karmatype": "Good"
+		"abr": "superheatwave",
+		"price": 1800,
+		"karmatype": "Bad"
 	},
 	{
-		"abr": "healall",
-		"price": 17336,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healanypawn",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healme",
-		"price": 2167,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "surgery",
+		"abr": "bouldermasshit",
 		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "leanatmosphere",
+		"price": 6000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "icestorm",
+		"price": 2400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "heavyair",
+		"price": 6000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "mechanoidportal",
+		"price": 3200,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "beetlerush",
+		"price": 12000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "hailstorm",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "earthquake",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "cropsprout",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "drought",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "huntingparty",
+		"price": 1000,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "passionshuffle",
-		"price": 2000,
+		"abr": "drunkmuffalos",
+		"price": 1000,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "replacetrait",
-		"price": 1,
+		"abr": "protectionfee",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "caravanraidquest",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "wantedquest",
+		"price": 1000,
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 74
+	"total": 83
 }
